@@ -6,7 +6,9 @@
 
 ##### Branching 
 
-![branching tasks](https://github.com/HakJko/upskill1_epam/tree/main/module01/branching/screenshots/branching.PNG)
+<h2>
+   <img src="screenshots/branching.PNG" width="600">
+</h2>
 
 ***
 

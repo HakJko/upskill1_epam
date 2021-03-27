@@ -6,7 +6,9 @@
 
 ##### Cycles
 
-![cycles tasks](https://github.com/HakJko/upskill1_epam/tree/main/module01/cycles/screenshots/cycles.PNG)
+<h2>
+   <img src="screenshots/cycles.PNG" width="600">
+</h2>
 
 ***
 
