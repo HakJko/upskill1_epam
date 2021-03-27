@@ -6,7 +6,7 @@
 
 ##### Linear Programs 
 
-
+![linear programs tasks](https://github.com/HakJko/upskill1_epam/tree/main/module01/linearprograms/screenshots/linearprograms.PNG)
 
 ***
 
