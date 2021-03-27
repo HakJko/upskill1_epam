@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9c85dfa-30f3-4faa-a401-62a760b81556" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/src/com/epam/ik/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/src/com/epam/ik/Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/src/com/epam/ik/Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/src/com/epam/ik/Task04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/src/com/epam/ik/Task05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/src/com/epam/ik/Task06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/src/com/epam/ik/Task07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/src/com/epam/ik/Task08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/src/com/epam/ik/Task09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/src/com/epam/ik/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/sreenshots/onedimensionalarrays.PNG" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ-IDEA-Community-Edition-2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qLcT2ImK1Chv2mYGSgdbJr78ew" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.TaskLauncher">
+    <configuration name="MagicSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.ik.MagicSquare" />
+      <module name="arraysofarrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.ik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.ik.Task04" />
+      <module name="onedimensionalarrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.ik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.ik.Task10" />
+      <module name="onedimensionalarrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.ik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.ik.TaskLauncher" />
+      <module name="sorting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.ik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TaskLauncher" />
+        <item itemvalue="Application.MagicSquare" />
+        <item itemvalue="Application.Task10" />
+        <item itemvalue="Application.Task04" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9c85dfa-30f3-4faa-a401-62a760b81556" name="Default Changelist" comment="" />
+      <created>1616862314742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616862314742</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="474" key="GridCell.Tab.0.bottom" timestamp="1616864106013">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="474" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616864106013" />
+    <state width="1877" height="474" key="GridCell.Tab.0.center" timestamp="1616864106012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="474" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616864106012" />
+    <state width="1877" height="474" key="GridCell.Tab.0.left" timestamp="1616864106012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="474" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616864106012" />
+    <state width="1877" height="474" key="GridCell.Tab.0.right" timestamp="1616864106013">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="474" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616864106013" />
+    <state x="342" y="140" key="new project wizard" timestamp="1616864153136">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1616864153136" />
+  </component>
+</project>
