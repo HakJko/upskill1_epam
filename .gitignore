@@ -7,5 +7,6 @@
 *.war
 *.ear
 *.nar
+*.xml
 /test
 /out

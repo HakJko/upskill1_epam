@@ -23,23 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9c85dfa-30f3-4faa-a401-62a760b81556" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/src/com/epam/ik/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/src/com/epam/ik/Task02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/src/com/epam/ik/Task03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/src/com/epam/ik/Task04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/src/com/epam/ik/Task05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/src/com/epam/ik/Task06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/src/com/epam/ik/Task07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/src/com/epam/ik/Task08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/src/com/epam/ik/Task09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/src/com/epam/ik/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/onedimensionalarrays/sreenshots/onedimensionalarrays.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +57,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/decompositionusingmethods/src/com/epam/ik" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\upskill1_epam\module02\decompositionusingmethods\src\com\epam\ik" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.TaskLauncher">
     <configuration name="MagicSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -158,27 +148,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="474" key="GridCell.Tab.0.bottom" timestamp="1616864106013">
+    <state width="1877" height="35" key="GridCell.Tab.0.bottom" timestamp="1616864608819">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="474" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616864106013" />
-    <state width="1877" height="474" key="GridCell.Tab.0.center" timestamp="1616864106012">
+    <state width="1877" height="35" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616864608819" />
+    <state width="1877" height="35" key="GridCell.Tab.0.center" timestamp="1616864608819">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="474" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616864106012" />
-    <state width="1877" height="474" key="GridCell.Tab.0.left" timestamp="1616864106012">
+    <state width="1877" height="35" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616864608819" />
+    <state width="1877" height="35" key="GridCell.Tab.0.left" timestamp="1616864608819">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="474" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616864106012" />
-    <state width="1877" height="474" key="GridCell.Tab.0.right" timestamp="1616864106013">
+    <state width="1877" height="35" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616864608819" />
+    <state width="1877" height="35" key="GridCell.Tab.0.right" timestamp="1616864608819">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="474" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616864106013" />
-    <state x="342" y="140" key="new project wizard" timestamp="1616864153136">
+    <state width="1877" height="35" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616864608819" />
+    <state x="342" y="140" key="new project wizard" timestamp="1616864489044">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1616864153136" />
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1616864489044" />
   </component>
 </project>
